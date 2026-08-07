@@ -35,7 +35,7 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ### Output:
-<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/7e308fb5-230b-4729-b184-1981d61d9d84" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/5be28f6b-92a5-4f40-8c6f-9d9581315048" />
 
 ### Result:
 Thus the welcome script was printed on Console Window  sucessfully.
